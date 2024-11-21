@@ -1,8 +1,7 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1moule&show_icons=true&theme=transparent)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1moule&theme=cotton candy)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1moule&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)<!--
 **1moule/1moule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
